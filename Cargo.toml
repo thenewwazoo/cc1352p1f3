@@ -1,0 +1,7 @@
+[package]
+name = "cc1352p1f3"
+version = "0.1.0"
+authors = ["Brandon Matthews <bmatthews@optimaltour.us>"]
+edition = "2018"
+
+[dependencies]
